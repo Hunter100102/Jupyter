@@ -14,7 +14,7 @@ Welcome to my GitHub repository! This repository contains a collection of projec
 
 ## Introduction
 
-I am William Cody Hunter, a passionate developer with a keen interest in Data Science and Machine Learning. This repository is a collection of my personal and professional projects in these fields. Each project has its own directory and contains a README file with detailed information about the project, how to set it up, and how to use it.
+I am William Cody Hunter, a passionate developer with a keen interest in Data Science and Machine Learning. This repository is a collection of my personal  projects in these fields. Each project has its own file.
 
 ## Projects
 
@@ -35,10 +35,11 @@ I am William Cody Hunter, a passionate developer with a keen interest in Data Sc
   - Technologies: Python, TensorFlow, Keras
   - [Repository Link](link-to-repo)
 
-- **Project 2: NLP Sentiment Analysis**
-  - Description: A natural language processing project to analyze sentiments from text data.
-  - Technologies: Python, NLTK, Scikit-learn
+- **Project 2: OpenAI Vocal Assistant**
+  - Description: A natural language processing project that anaylses and responds from text data using speech recognition and text-to-speech capabilities.
+  - Technologies: Python, OpenAI, Pyttsx3, SpeechRecognition, AWS Polly, Pydub
   - [Repository Link](link-to-repo)
+
 
 ## Getting Started
 
